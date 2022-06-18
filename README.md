@@ -2,9 +2,15 @@
 
 Welcome, here you'll find the slides and complementary info about my MacDevOps:YVR 2022 talk.
 
+In the session take a look at [asdf](https://asdf-vm.com), an amazing version manager for macOS. It is able to install and manage local versions of Python, Golang, Terraform and many others in a single straightforward workflow.
+The supplementary notes for the talk can be found [here](https://blog.macadmin.me/posts/asdf-on-macos/).
+
+[Download Session slides](./pdf/MDOYVR22_runtimetools_asdf-on-macos.pdf)
+
+
 [https://mdoyvr.com/speakers-2022/](https://mdoyvr.com/speakers-2022/)
 
-##### **Virtual MacDevOps:YVR 2022 ** - stream date: 2021-06-16 19:40 CET / 10:40 PDT (UTC -7):
+##### Virtual MacDevOps:YVR 2022 - stream date: 2022-06-16 19:40 CET / 10:40 PDT (UTC -7):
 
 ![Runtime and tools version management on macOS](img/session_intro.png)
 
