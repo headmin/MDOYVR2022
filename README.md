@@ -2,7 +2,7 @@
 
 Welcome, here you'll find the slides and complementary info about my MacDevOps:YVR 2022 talk.
 
-<[https://mdoyvr.com/speakers-20212/](https://mdoyvr.com/speakers-2022/)>
+[https://mdoyvr.com/speakers-2022/](https://mdoyvr.com/speakers-2022/)
 
 ##### **Virtual MacDevOps:YVR 2022 ** - stream date: 2021-06-16 19:40 CET / 10:40 PDT (UTC -7):
 
